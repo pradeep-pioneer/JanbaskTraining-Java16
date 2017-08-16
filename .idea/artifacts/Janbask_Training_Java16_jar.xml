@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Janbask Training-Java16:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Janbask_Training_Java16_jar</output-path>
+    <root id="archive" name="Janbask Training-Java16.jar">
+      <element id="module-output" name="Janbask Training-Java16" />
+    </root>
+  </artifact>
+</component>
